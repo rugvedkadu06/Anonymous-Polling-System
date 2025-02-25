@@ -7,8 +7,7 @@ Anonymous Polls is a platform where users can create and participate in polls wi
 - **Poll Creation:** Users can create polls with multiple-choice questions.
 - **Anonymous Voting:** No user information is stored, ensuring complete privacy.
 - **Live Polls Feed:** View and vote on polls created by others.
-- **Real-time Results:** See voting results immediately or after the poll closes.
-
+  
 ## Installation
 
 ### Prerequisites
@@ -43,7 +42,7 @@ Anonymous Polls is a platform where users can create and participate in polls wi
    cd ../frontend
    npm start
    ```
-6. Open the app in your browser at `http://localhost:3000`
+6. Open the app in your browser
 
 ## Technologies Used
 
@@ -54,15 +53,9 @@ Anonymous Polls is a platform where users can create and participate in polls wi
 ## Future Enhancements
 
 - Time-limited polls
-- Different voting modes (single vote, multiple votes per user)
 - Option to see poll results after voting closes
 - Report inappropriate polls
-
-## Contributing
-Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
-
-## License
-This project is licensed under the MIT License.
+- Frontend Improvements
 
 ---
 Feel free to modify this file based on your project’s specifics!
