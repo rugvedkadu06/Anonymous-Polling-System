@@ -24,22 +24,22 @@ Anonymous Polls is a platform where users can create and participate in polls wi
    ```
 2. Install dependencies for backend:
    ```sh
-   cd backend
+   cd server
    npm install
    ```
 3. Install dependencies for frontend:
    ```sh
-   cd ../frontend
+   cd ../client
    npm install
    ```
 4. Start the backend server:
    ```sh
-   cd ../backend
+   cd ../server
    npm start
    ```
 5. Start the frontend server:
    ```sh
-   cd ../frontend
+   cd ../client
    npm start
    ```
 6. Open the app in your browser
